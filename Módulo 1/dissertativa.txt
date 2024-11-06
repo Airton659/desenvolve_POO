@@ -1,0 +1,6 @@
+O paradigma indicado é o da letra c - "programação orientada a objetos".
+
+As entidades listadas na solicitação (Livros, Autores, Usuários, Empréstimos) possuem propriedades específicas e um relacionamento entre eles, e a POO permite modelar essas entidades como uma classe e seu devidos atributos;
+O reuso de código também é facilitado através da POO através de herança e composição, visto que métodos e atributos podem ser compartilhados;
+A POO utiliza da modularidade o que faz com que seja mais fácil entender e expandir o sistema além de facilitar a manutenção;
+Como a POO facilita a organização e legibilidade do código, ela também é recomendada em questão de eficiência, apesar deste ponto ser mais baseado em como o código é escrito do que em qual paradigma utilizado.
