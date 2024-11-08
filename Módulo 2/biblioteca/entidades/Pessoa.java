@@ -11,10 +11,17 @@ public class Pessoa {
         return nome;
     }
 
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
     public Livro[] getLivros() {
         return livros;
     }
 
+    public void setLivros(Livro[] livros) {
+        this.livros=livros;
+    }
 
-    
+        
 }
